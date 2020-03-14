@@ -1,0 +1,8 @@
+.filter-button { 
+  align-self: center;
+  background: transparent;
+  border: none;
+  color: yellow;
+  font-size: 17px;
+  width: 100px;
+}
