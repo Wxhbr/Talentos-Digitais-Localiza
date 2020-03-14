@@ -21,7 +21,8 @@ Esse é um projeto em React utilizando Redux para controle de estado. A aplicaç
 - Clicando no bota de filtragem, a tabela mostrará os planetas que foram filtrados pelo usuário, limpará os campos de filtro, desaparecerá e irá aparecer na tela uma campo com todas as filtragens selecionadas.	  
 - Enquanto existir filtragens ativas os valores das colunas filtradas não aparecerão no select de escolha da coluna. Por ex:
 - Caso exista 2 filtros ativos, 1 com o valor population e outro com o valor orbital planet, no campo select estes valores não poderão ser selecionados.  	
-- O usuário poderá remover os filtros ativos clicando no "x".  	
+- O usuário poderá remover os filtros ativos clicando no "x".  
+- O usuário também pode ordenar em crescente ou decrescente clicando no subtítulo da coluna.
 
 ### Tecnologias usadas:
 
