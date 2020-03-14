@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4182026b6df44b5c3034048279b2d267",
+    "revision": "f987af765f52842c1be250aea5e5b4fd",
     "url": "/Talentos-Digitais-Localiza/index.html"
   },
   {
-    "revision": "21ba187f90c27dff9429",
-    "url": "/Talentos-Digitais-Localiza/static/css/main.62d8ea7d.chunk.css"
+    "revision": "b5abf598b119e7f40318",
+    "url": "/Talentos-Digitais-Localiza/static/css/main.57286c2e.chunk.css"
   },
   {
     "revision": "ea1e9f3e31254ea6c599",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Talentos-Digitais-Localiza/static/js/2.a54e77ed.chunk.js.LICENSE"
   },
   {
-    "revision": "21ba187f90c27dff9429",
+    "revision": "b5abf598b119e7f40318",
     "url": "/Talentos-Digitais-Localiza/static/js/main.8803a58a.chunk.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Talentos-Digitais-Localiza/static/js/runtime-main.2cda447e.js"
   },
   {
-    "revision": "0f7e3fa77a8d60b935d47b1b296be155",
-    "url": "/Talentos-Digitais-Localiza/static/media/background_star_wars.0f7e3fa7.jpg"
+    "revision": "39d0431c7d4886413df88297b8ee3eac",
+    "url": "/Talentos-Digitais-Localiza/static/media/background_star_wars4.39d0431c.bin"
   }
 ]);
