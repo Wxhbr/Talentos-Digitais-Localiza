@@ -10,21 +10,21 @@ Esse é um projeto em React utilizando Redux para controle de estado. A aplicaç
 
 ## Funcionalidades:
 
--O projeto contem um campo input com o placeholder "Digite um nome", esse campo serve para filtrar dados da coluna nome da tabela, de acordo com o que o usuário deseja.  
--Logo abaixo possui 3 filtragens diferentes, 2 campos selects e 1 campo input, ao clicar neles, o usuario poderá selecionar alguns valores do subtitulo(population, orbital planet, rotation planet, diameter...) da tabela.
--Quando os 3 campos acima estiverem preeenchidos, aparecerá um botão de filtragem.  	
--Clicando no bota de filtragem, a tabela mostrará os planetas que foram filtrados pelo usuário, limpará os campos de filtro, desaparecerá e irá aparecer na tela uma campo com todas as filtragens selecionadas.	  
--Enquanto existir filtragens ativas os valores das colunas filtradas não aparecerão no select de escolha da coluna. Por ex:
--Caso exista 2 filtros ativos, 1 com o valor population e outro com o valor orbital planet, no campo select estes valores não poderão ser selecionados.  	
--O usuário poderá remover os filtros ativos clicando no "x".  	
+- O projeto contem um campo input com o placeholder "Digite um nome", esse campo serve para filtrar dados da coluna nome da tabela, de acordo com o que o usuário deseja.  
+- Logo abaixo possui 3 filtragens diferentes, 2 campos selects e 1 campo input, ao clicar neles, o usuario poderá selecionar alguns valores do subtitulo(population, orbital planet, rotation planet, diameter...) da tabela.
+- Quando os 3 campos acima estiverem preeenchidos, aparecerá um botão de filtragem.  	
+- Clicando no bota de filtragem, a tabela mostrará os planetas que foram filtrados pelo usuário, limpará os campos de filtro, desaparecerá e irá aparecer na tela uma campo com todas as filtragens selecionadas.	  
+- Enquanto existir filtragens ativas os valores das colunas filtradas não aparecerão no select de escolha da coluna. Por ex:
+- Caso exista 2 filtros ativos, 1 com o valor population e outro com o valor orbital planet, no campo select estes valores não poderão ser selecionados.  	
+- O usuário poderá remover os filtros ativos clicando no "x".  	
 
 ### Tecnologias usadas:
 
--React
--Redux  	           
--Git e GitHub  	           
--Javascript	                 
--CSS	  
+- React
+- Redux  	           
+- Git e GitHub  	           
+- Javascript	                 
+- CSS	  
 
 
 ### Cuidado tomados durante o desenvolvimento
