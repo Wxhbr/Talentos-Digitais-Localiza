@@ -4,6 +4,11 @@ LINK DA PAGINA DO PROJETO: https://wxhbr.github.io/Talentos-Digitais-Localiza/
 
 OBS: CASO O LINK NAO ESTEJA SAINDO DO LOADING, É PORQUE O SITE DA API ESTÁ INSTÁVEL E ACONSELHO TENTAR APÓS UNS 5 MIN OU QUANDO ESTE SITE ESTEJA ATIVO(https://swapi.co/documentation).
 
+OBS: Em um terminal linux é possivel rodar o projeto localmente assim:
+- git clone git@github.com:Wxhbr/Talentos-Digitais-Localiza.git
+- npm install ( para instalar as dependencias )
+- npm start
+
 ## O que deverá ser desenvolvido
 
 Esse é um projeto em React utilizando Redux para controle de estado. A aplicação consistirá de uma tabela com informações acerca dos planetas no universo fictício da série _Star Wars_. A tabela foi alimentada com dados retornados de uma [API](https://swapi.co/documentation) real. Tem, também, vários filtros que permitirão a quem usa selecionar e encontrar com facilidade a informação desejada.
