@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Talentos-Digitais-Localiza/static/css/main.57286c2e.chunk.css",
+    "main.css": "/Talentos-Digitais-Localiza/static/css/main.b42589f9.chunk.css",
     "main.js": "/Talentos-Digitais-Localiza/static/js/main.8803a58a.chunk.js",
     "main.js.map": "/Talentos-Digitais-Localiza/static/js/main.8803a58a.chunk.js.map",
     "runtime-main.js": "/Talentos-Digitais-Localiza/static/js/runtime-main.2cda447e.js",
@@ -8,16 +8,16 @@
     "static/js/2.a54e77ed.chunk.js": "/Talentos-Digitais-Localiza/static/js/2.a54e77ed.chunk.js",
     "static/js/2.a54e77ed.chunk.js.map": "/Talentos-Digitais-Localiza/static/js/2.a54e77ed.chunk.js.map",
     "index.html": "/Talentos-Digitais-Localiza/index.html",
-    "precache-manifest.edd6ab636dd93cf3b02f1d4b90d0f404.js": "/Talentos-Digitais-Localiza/precache-manifest.edd6ab636dd93cf3b02f1d4b90d0f404.js",
+    "precache-manifest.e17ccff6715afce7215cf187f016c56e.js": "/Talentos-Digitais-Localiza/precache-manifest.e17ccff6715afce7215cf187f016c56e.js",
     "service-worker.js": "/Talentos-Digitais-Localiza/service-worker.js",
-    "static/css/main.57286c2e.chunk.css.map": "/Talentos-Digitais-Localiza/static/css/main.57286c2e.chunk.css.map",
+    "static/css/main.b42589f9.chunk.css.map": "/Talentos-Digitais-Localiza/static/css/main.b42589f9.chunk.css.map",
     "static/js/2.a54e77ed.chunk.js.LICENSE": "/Talentos-Digitais-Localiza/static/js/2.a54e77ed.chunk.js.LICENSE",
     "static/media/App.css": "/Talentos-Digitais-Localiza/static/media/background_star_wars4.39d0431c.bin"
   },
   "entrypoints": [
     "static/js/runtime-main.2cda447e.js",
     "static/js/2.a54e77ed.chunk.js",
-    "static/css/main.57286c2e.chunk.css",
+    "static/css/main.b42589f9.chunk.css",
     "static/js/main.8803a58a.chunk.js"
   ]
 }

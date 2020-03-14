@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Talentos-Digitais-Localiza/precache-manifest.edd6ab636dd93cf3b02f1d4b90d0f404.js"
+  "/Talentos-Digitais-Localiza/precache-manifest.e17ccff6715afce7215cf187f016c56e.js"
 );
 
 self.addEventListener('message', (event) => {
