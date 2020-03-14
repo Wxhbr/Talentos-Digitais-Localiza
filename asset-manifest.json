@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Talentos-Digitais-Localiza/static/css/main.5c5bb842.chunk.css",
-    "main.js": "/Talentos-Digitais-Localiza/static/js/main.44ee3bd0.chunk.js",
-    "main.js.map": "/Talentos-Digitais-Localiza/static/js/main.44ee3bd0.chunk.js.map",
+    "main.css": "/Talentos-Digitais-Localiza/static/css/main.62d8ea7d.chunk.css",
+    "main.js": "/Talentos-Digitais-Localiza/static/js/main.8803a58a.chunk.js",
+    "main.js.map": "/Talentos-Digitais-Localiza/static/js/main.8803a58a.chunk.js.map",
     "runtime-main.js": "/Talentos-Digitais-Localiza/static/js/runtime-main.2cda447e.js",
     "runtime-main.js.map": "/Talentos-Digitais-Localiza/static/js/runtime-main.2cda447e.js.map",
     "static/js/2.a54e77ed.chunk.js": "/Talentos-Digitais-Localiza/static/js/2.a54e77ed.chunk.js",
     "static/js/2.a54e77ed.chunk.js.map": "/Talentos-Digitais-Localiza/static/js/2.a54e77ed.chunk.js.map",
     "index.html": "/Talentos-Digitais-Localiza/index.html",
-    "precache-manifest.8129d00a6d2fa101dd306420f9478589.js": "/Talentos-Digitais-Localiza/precache-manifest.8129d00a6d2fa101dd306420f9478589.js",
+    "precache-manifest.3ec07e1fb1175c9db5a8b33bc8ccd5d7.js": "/Talentos-Digitais-Localiza/precache-manifest.3ec07e1fb1175c9db5a8b33bc8ccd5d7.js",
     "service-worker.js": "/Talentos-Digitais-Localiza/service-worker.js",
-    "static/css/main.5c5bb842.chunk.css.map": "/Talentos-Digitais-Localiza/static/css/main.5c5bb842.chunk.css.map",
+    "static/css/main.62d8ea7d.chunk.css.map": "/Talentos-Digitais-Localiza/static/css/main.62d8ea7d.chunk.css.map",
     "static/js/2.a54e77ed.chunk.js.LICENSE": "/Talentos-Digitais-Localiza/static/js/2.a54e77ed.chunk.js.LICENSE",
     "static/media/App.css": "/Talentos-Digitais-Localiza/static/media/background_star_wars.0f7e3fa7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2cda447e.js",
     "static/js/2.a54e77ed.chunk.js",
-    "static/css/main.5c5bb842.chunk.css",
-    "static/js/main.44ee3bd0.chunk.js"
+    "static/css/main.62d8ea7d.chunk.css",
+    "static/js/main.8803a58a.chunk.js"
   ]
 }
