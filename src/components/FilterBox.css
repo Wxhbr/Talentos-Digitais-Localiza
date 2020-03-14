@@ -2,7 +2,21 @@
   align-self: center;
   background: transparent;
   border: none;
-  color: yellow;
+  color: rgb(241, 194, 40);
   font-size: 17px;
   width: 100px;
+}
+
+.clear-filter-container {
+  color: rgb(241, 194, 40);
+  font-size: 20px;
+  width: 400px; 
+}
+
+.clear-button {
+  background: transparent;  
+  border: none;
+  color: rgb(241, 194, 40);
+  font-size: 20px;
+  margin-right: 10px;
 }

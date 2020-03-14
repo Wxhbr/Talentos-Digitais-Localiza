@@ -6,17 +6,17 @@ caption {
   text-shadow: -1px 0 rgb(241, 194, 40), 0 1px rgb(241, 194, 40), 1px 0 rgb(241, 194, 40), 0 -1px rgb(241, 194, 40);
 }
 .filters-container {
-  height: 400px;
   display: flex;
   flex-direction: column;
+  height: 400px;
 }
 
 .filters-selectors-container {
-  width: 90%;
-  height: 400px;
-  justify-content: space-around;
   display: flex;
   flex-direction: column;
+  height: 400px;
+  justify-content: space-around;
+  width: 90%;
 }
 
 .filter-label {
@@ -49,8 +49,8 @@ caption {
 }
 
 table {
-  width: 100%;
   border-collapse: collapse; 
+  width: 100%;
 }
 
 tr:nth-of-type(odd) { 
@@ -69,8 +69,8 @@ td {
 }
 
 td, th { 
-  padding: 6px; 
   border: 1px solid rgb(204, 204, 204); 
+  padding: 6px; 
   text-align: center;
 }
 
@@ -94,7 +94,6 @@ td, th {
 }
 
 .filter-button-container {
-  background-color: red;
   height: auto;
   margin-left: 50%;
 }

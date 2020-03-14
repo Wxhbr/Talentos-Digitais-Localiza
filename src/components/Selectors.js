@@ -23,7 +23,7 @@ const Selectors = (
         <select id="values" className="custom-select" onChange={(e) => setSelectedValues(e, i)}>
           {
             i === 0
-              ? <option className="select-column" value="">Todos</option>
+              ? <option className="select-column" value="">Escolha uma coluna</option>
               : <option className="select-comparison" value="">Escolha um comparador</option>
           }
           {

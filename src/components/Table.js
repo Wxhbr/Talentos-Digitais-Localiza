@@ -87,7 +87,7 @@ class Table extends Component {
             />
           </div>
           <div className="filters-selectors-container">
-            <label htmlFor="values" className="filter-label">Choose a filter:</label>
+            <label htmlFor="values" className="filter-label">Selecione um filtro:</label>
             <div className="selectors-container">
               <Selectors selects={['population', 'orbital_period', 'diameter', 'rotation_period', 'surface_water']} i={0} />
               <Selectors selects={['maior que', 'menor que', 'igual a']} i={1} />

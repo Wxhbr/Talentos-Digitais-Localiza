@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import { filterButton, getRemoveFilter } from '../store/actions/table';
+import './FilterBox.css';
 
 const FilterBox = ({
   setNewFilter, selectedValues, results, resultsByName, filters, removeFilter,
@@ -24,6 +25,7 @@ const FilterBox = ({
         : numericValues.map(({ numeric_values }, i) => (
           <div className="clear-filter-container" key={numeric_values.column}>
             <button
+              className="clear-button"
               key={numeric_values.column}
               id={i}
               type="button"
